@@ -1,0 +1,25 @@
+gunakan dengan bijak *terimakasih*
+
+ $ apt update && apt upgrade
+ $ pkg install nmap
+ $ pkg install git
+ $ pkg install php
+ $ pkg install python
+ $ pkg install python2
+ $ pip2 install requests
+ $ pip2 install bs4
+ $ pip2 install mechanize
+ $ git clone https://github.com/muhammadfathul/FBH
+ $ cd FBH 
+ $ chmod +x*
+ $ bash .FBH
+
+
+trus klik  HELP untuk memilih 
+
+
+
+
+
+
+file TXT >>>>  aldy slank .v
